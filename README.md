@@ -1,16 +1,12 @@
-(参考)Matlab入門  
-http://www.ns.kogakuin.ac.jp/~ct13050/johogaku/2-2.matlab_getstart.pdf
+# 画像処理工学レポート課題
 
-例えば，このようにしてレポートを作成することが可能です．  
-https://github.com/mackhasegawa/lecture_image_processing/blob/master/kadai1.md
-
-
-フリー素材
-- https://www.pakutaso.com/ 
-- フリー素材アイドル「MIKA☆RIKA」 http://mika-rika-free.jp/
-
-
-
-
-
-
+課題１ [標本化間隔と空間解像度](./kadai1.md)  
+課題２ [階調数と疑似輪郭](./kadai2.md)  
+課題３ [閾値処理](./kadai3.md)  
+課題４ [画像のヒストグラム ](./kadai4.md)  
+課題５ [判別分析法](./kadai5.md)  
+課題６ [画像の二値化](./kadai6.md)  
+課題７ [ダイナミックレンジの拡大](./kadai7.md)  
+課題８ [ラベリング](./kadai8.md)  
+課題９ [メディアンフィルタと先鋭化](./kadai9.md)  
+課題１０　[画像のエッジ抽出](./kadai10.md)    
